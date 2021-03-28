@@ -2,7 +2,7 @@ body {
     color: white;
     text-align: center;
     font-family: "Courier New", Courier, monospace;
-    background-color: blueviolet;
+    background-color: seagreen;
 }
 
 .contenido {
@@ -37,13 +37,15 @@ h1 {
     margin: 0 auto;
     border: 2px solid yellow;
     padding: 3em;
-    background-color: violet;
+    background-color: silver;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .cuadro p {
+    color: black;
     font-size: 28px;
+    font-weight: 700;
     text-align: center;
 }
