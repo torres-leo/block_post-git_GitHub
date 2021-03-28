@@ -60,3 +60,7 @@ img {
     background-size: cover;
     height: 460px;
 }
+
+.master {
+    font-size: 60px;
+}
